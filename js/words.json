@@ -1,0 +1,183 @@
+[
+  {
+    "lesson": 1,
+    "words": [
+      {
+        "word": "apple",
+        "meaning": "alma",
+        "example": "I eat an apple every day.",
+        "example_az": "Mən hər gün alma yeyirəm.",
+        "level": "A1"
+      },
+      {
+        "word": "a / an",
+        "meaning": "bir (müəyyən olmayan artikl)",
+        "example": "I saw a dog in the park.",
+        "example_az": "Mən parkda bir it gördüm.",
+        "level": "A1"
+      },
+      {
+        "word": "about",
+        "meaning": "haqqında",
+        "example": "She is talking about her family.",
+        "example_az": "O, ailəsi haqqında danışır.",
+        "level": "A1"
+      },
+      {
+        "word": "above",
+        "meaning": "yuxarıda, üstündə",
+        "example": "The picture is above the sofa.",
+        "example_az": "Şəkil divanın üstündədir.",
+        "level": "A1"
+      },
+      {
+        "word": "across",
+        "meaning": "qarşı tərəfində, o biri tərəfində",
+        "example": "The bank is across the street.",
+        "example_az": "Bank küçənin qarşı tərəfindədir.",
+        "level": "A1"
+      },
+      {
+        "word": "action",
+        "meaning": "hərəkət",
+        "example": "The movie has a lot of action.",
+        "example_az": "Filmdə çox hərəkət var.",
+        "level": "A1"
+      },
+      {
+        "word": "activity",
+        "meaning": "fəaliyyət",
+        "example": "Swimming is a healthy activity.",
+        "example_az": "Üzgüçülük sağlam bir fəaliyyətdir.",
+        "level": "A1"
+      },
+      {
+        "word": "actor",
+        "meaning": "aktyor",
+        "example": "He is a famous actor.",
+        "example_az": "O, məşhur aktyordur.",
+        "level": "A1"
+      },
+      {
+        "word": "actress",
+        "meaning": "aktrisa",
+        "example": "She is a talented actress.",
+        "example_az": "O, istedadlı aktrisadır.",
+        "level": "A1"
+      },
+      {
+        "word": "add",
+        "meaning": "əlavə etmək",
+        "example": "Please add some sugar to the tea.",
+        "example_az": "Zəhmət olmasa çaya bir az şəkər əlavə et.",
+        "level": "A1"
+      },
+      {
+        "word": "address",
+        "meaning": "ünvan",
+        "example": "What is your home address?",
+        "example_az": "Sənin ev ünvanın nədir?",
+        "level": "A1"
+      },
+      {
+        "word": "adult",
+        "meaning": "böyük, yetkin insan",
+        "example": "She is an adult now.",
+        "example_az": "O, indi yetkin insandır.",
+        "level": "A1"
+      },
+      {
+        "word": "advice",
+        "meaning": "məsləhət",
+        "example": "She gave me good advice.",
+        "example_az": "O, mənə yaxşı məsləhət verdi.",
+        "level": "A1"
+      },
+      {
+        "word": "afraid",
+        "meaning": "qorxmuş",
+        "example": "I am afraid of dogs.",
+        "example_az": "Mən itlərdən qorxuram.",
+        "level": "A1"
+      },
+      {
+        "word": "after",
+        "meaning": "sonra",
+        "example": "We will go home after school.",
+        "example_az": "Məktəbdən sonra evə gedəcəyik.",
+        "level": "A1"
+      },
+      {
+        "word": "afternoon",
+        "meaning": "günorta (günortadan sonra)",
+        "example": "I will see you in the afternoon.",
+        "example_az": "Mən səni günortadan sonra görəcəyəm.",
+        "level": "A1"
+      },
+      {
+        "word": "again",
+        "meaning": "yenidən",
+        "example": "Please say that again.",
+        "example_az": "Zəhmət olmasa bunu yenidən de.",
+        "level": "A1"
+      },
+      {
+        "word": "age",
+        "meaning": "yaş",
+        "example": "What is your age?",
+        "example_az": "Sənin yaşın neçədir?",
+        "level": "A1"
+      },
+      {
+        "word": "ago",
+        "meaning": "əvvəl",
+        "example": "I met her two days ago.",
+        "example_az": "Mən onunla iki gün əvvəl görüşdüm.",
+        "level": "A1"
+      },
+      {
+        "word": "agree",
+        "meaning": "razılaşmaq",
+        "example": "I agree with you.",
+        "example_az": "Mən səninlə razıyam.",
+        "level": "A1"
+      },
+      {
+        "word": "air",
+        "meaning": "hava",
+        "example": "The air is fresh today.",
+        "example_az": "Bu gün hava təmizdir.",
+        "level": "A1"
+      },
+      {
+        "word": "airport",
+        "meaning": "hava limanı",
+        "example": "We arrived at the airport early.",
+        "example_az": "Biz hava limanına tez çatdıq.",
+        "level": "A1"
+      },
+      {
+        "word": "all",
+        "meaning": "hamısı, bütün",
+        "example": "All students are here.",
+        "example_az": "Bütün tələbələr buradadır.",
+        "level": "A1"
+      },
+      {
+        "word": "also",
+        "meaning": "həmçinin",
+        "example": "She can sing and also dance.",
+        "example_az": "O, həm oxuya, həm də rəqs edə bilir.",
+        "level": "A1"
+      },
+      {
+        "word": "always",
+        "meaning": "həmişə",
+        "example": "She always wakes up early.",
+        "example_az": "O, həmişə tez oyanır.",
+        "level": "A1"
+      }
+
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <title>Review & Quiz</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h2>🔁 Review Mode</h2>
+
+    <button class="btn" onclick="showAllWords()">All Words (Random)</button>
+    <button class="btn" onclick="showWeakWords()">Weak Words</button>
+
+    <div id="review-list"></div>
+
+    <hr>
+
+    <h2 id="quiz">🧠 Quiz Mode</h2>
+
+    <div id="quiz-box">
+      <p id="quiz-word">Word</p>
+      <input type="text" id="quiz-answer" placeholder="Write meaning...">
+      <button class="btn" onclick="checkAnswer()">Check</button>
+      <p id="quiz-result"></p>
+    </div>
+
+    <br>
+    <a href="index.html" class="btn">⬅ Back</a>
+  </div>
+
+
+  <script src="js/app.js"></script>
+</body>
+</html>
